@@ -52,7 +52,7 @@ const Contact = () => {
                 <textarea cols="15" rows="8" placeholder="Message Here..."></textarea>
               </div>
               <div className="submit-btn">
-                <a href="/path/to/your/cv.pdf" className="main-btn" download>
+                <a href="Ajinkya_Deshmukh.pdf" className="main-btn" download>
                   <span className="btn-text">Download CV</span>
                   <span className="btn-icon">
                     <i className="fas fa-download"></i>

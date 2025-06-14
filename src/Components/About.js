@@ -15,7 +15,7 @@ const About = () => {
           I am dedicated to delivering high-quality solutions that align with business objectives and exceed client expectations.
         </p>
         <div className="btn-con">
-          <a href="/path/to/your/cv.pdf" className="main-btn" download>
+          <a href="Ajinkya_Deshmukh.pdf" className="main-btn" download>
             <span className="btn-text">Download CV</span>
             <span className="btn-icon">
               <i className="fas fa-download"></i>

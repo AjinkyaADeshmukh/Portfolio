@@ -16,7 +16,7 @@ const Header = () => {
           </h1>
           <p>I'm a Software Developer, I love to create beautiful and functional websites.</p>
           <div className="btn-con">
-            <a href="/path/to/your/cv.pdf" className="main-btn" download>
+            <a href="Ajinkya_Deshmukh.pdf" className="main-btn" download>
               <span className="btn-text">Download CV</span>
               <span className="btn-icon">
                 <i className="fas fa-download"></i>
